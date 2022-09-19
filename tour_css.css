@@ -1,0 +1,20 @@
+.container2{
+	background-image: url("https://img.freepik.com/premium-photo/tropical-beach-maldives-with-few-palm-trees-blue-lagoon_87394-15970.jpg?w=996");
+	background-size:cover;
+	height: 100vh;
+}
+.card12{
+	text-align:center;
+	background-color:white;
+	font-family:helvetica;
+	padding:5px;
+}
+
+.button{
+	border-radius:10px;
+	padding:3px;
+	background-color:white;
+}
+button:hover{
+	color:#00bfff;
+}
