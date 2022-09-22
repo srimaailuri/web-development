@@ -1,0 +1,34 @@
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+	background-color: #e6f6ff;
+}
+
+.detailed-view-heading {
+	text-align:center;
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.card-container {
+    margin: 20px;
+}
+
+.text-card {
+    background-color: white;
+}
+
+.heading-section {
+    padding: 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.text-section {
+    padding: 10px;
+    font-size: 15px;
+}
