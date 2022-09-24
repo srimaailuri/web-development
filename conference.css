@@ -1,0 +1,29 @@
+.home-image {
+    width: 100vw;
+}
+
+.container1 {
+    padding: 10px;
+}
+
+.home-text {
+    text-align: center;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.home-head {
+    padding: 15px;
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-para {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.smallcards {
+    text-align: center;
+}
