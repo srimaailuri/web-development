@@ -1,0 +1,30 @@
+.center {
+    padding: 10px;
+}
+
+.head1 {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-size: 13px;
+}
+
+.pict {
+    margin: 10px;
+}
+
+.pict1 {
+    margin: 15px;
+	height:100px;
+	width:100px;
+}
+
+.videos {
+    margin: 5px;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+}
