@@ -1,0 +1,83 @@
+.bg-moon {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height:40vh;
+    text-align: center;
+    font-family: "Bree Serif";
+    padding: 50px;
+    background-color: #03174c;
+}
+
+.music-bg-container {
+    background-color: #03174c;
+}
+
+.sleep-head {
+    color: white;
+}
+
+.sleep-para {
+    color: white;
+}
+
+.bottom-card {
+    background-color: #03174c;
+    text-align: center;
+    font-family: "Bree Serif";
+    width: 100vw;
+    padding-left: 50px;
+    padding-right: 20px;
+    background-size: cover;
+}
+
+.night-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    border-radius: 8px;
+    background-size: cover;
+    width: 70vw;
+    margin-left:130px;
+    height: 40vh;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.music-details-container {
+    background-color: #03174c;
+    text-align:center;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: white;
+    border-radius: 15px;
+    padding-left: 12px;
+    padding-left: 12px;
+    margin-bottom: 50px;
+}
+
+.cloud-image {
+    background-size: cover;
+    background-color: #03174c;
+    width: 40vw;
+    height:40vh;
+    border-radius: 15px;
+}
+
+.second-bottom {
+    font-family: "Bree Serif";
+    background-color: #03174c;
+    padding: 13px;
+    color: #98a1bd;
+}
+
+.related {
+    color: white;
+    padding-left: 10px;
+}
+
+.Related-pictures {
+    margin-right: 12px;
+    width: 150px;
+    height: 100px;
+}
