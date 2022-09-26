@@ -1,0 +1,102 @@
+.podcast {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    margin: 15px;
+}
+
+.homepage {
+    padding: 15px;
+    margin: 15px;
+}
+
+.home-head {
+    color: white;
+    font-size: 35px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.image-small {
+    width: 140px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.home-names {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #151765;
+    margin: 10px;
+
+}
+
+.home-episodes {
+    color: #5a7184;
+    margin: 10px;
+
+}
+
+.puri-page {
+    margin: 15px;
+}
+
+.puri-podcast {
+    background-color: #151765;
+    color: #ffffff;
+    background-size: cover;
+    padding: 20px;
+}
+
+.podcast-text {
+    font-size: 12px;
+}
+
+.puri-name {
+    font-size: 20px;
+}
+
+.puri-description {
+    font-size: 10px;
+}
+
+.puri-small-descript {
+    padding: 10px;
+}
+
+.puri-img {
+    border-radius: 8px;
+    width: 150px;
+    height: 130px;
+    margin: 8px;
+}
+
+.small-puri-heads {
+    font-weight: bold;
+    color: #151765;
+}
+
+.small-puri-text {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.small-puri-min {
+    font-size: 13px;
+    font-weight: bold;
+    color: #5a7184;
+}
+
+.puri-description-text {
+    margin: 10px;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+}
