@@ -1,0 +1,51 @@
+.purple-card {
+    background-color: #894bca;
+    width: 100vw;
+    height: 40vh;
+}
+
+.top-para {
+    color: white;
+    margin: 40px;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    text-align: center;
+}
+
+.top-image {
+
+    width: 30vw;
+    height: 40vh;
+}
+
+.bottom-card {
+    padding: 15px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.select-head {
+    color: #f780c3;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.logo {
+    width: 15vw;
+    height: 15vh;
+    margin:10px;
+}
+
+.card-text {
+    margin-left: 10px;
+}
+
+.card-head {
+    font-weight: bold;
+}
+
+.logo-para {
+    color: #7b8794;
+    font-size: 15px;
+    font-weight: 500;
+}
