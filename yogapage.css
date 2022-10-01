@@ -1,0 +1,77 @@
+.home-page {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-head {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #132d84;
+    text-align: center;
+    padding: 20px;
+}
+
+.home-girl {
+    margin: 15px;
+    width: 200px;
+    height: 250px;
+}
+
+.yoga-descript {
+    text-align: center;
+}
+
+.yoga-quote {
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.button {
+    border-radius: 8px;
+    background-color: #132d84;
+    color: white;
+}
+
+.types-yoga {
+    background-color: #ffedcb;
+    text-align: center;
+}
+
+.types-yoga-girl {
+    margin: 5px;
+    width: 200px;
+    height: 250px;
+}
+
+.types-yoga-head {
+    color: #132d84;
+    font-size: 25px;
+}
+
+.cards {
+    background-color: #ffe2ab;
+    margin: 30px;
+    border-radius: 12px;
+    color: #253263;
+}
+
+.yoga-asanas {
+    height: 100px;
+    width: 80px;
+}
+
+.yoga-text {
+    margin: 5px;
+}
+
+.yoga-name {
+    font-size: 20px;
+}
+
+.yoga-descript {
+    font-weight: 500;
+}
