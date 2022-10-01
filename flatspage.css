@@ -1,0 +1,101 @@
+.sunrise-evenue {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.sunrise-evenue-card {
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    font-family: "Bree Serif";
+}
+
+.sunrise-head {
+    color: #f19116;
+    font-size: 25px;
+}
+
+.sunrise-para {
+    color: #7b8794;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.button {
+    color: white;
+    border-radius: 6px;
+    background-color: #f19116;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: none;
+    margin: 15px;
+}
+
+.flats-list {
+    background-color: #222222;
+    background-size: cover;
+    margin: 20px;
+}
+
+.flat-cards {
+    background-color: white;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+.flat-picture {
+    width: 25vw;
+    height: 30vh;
+}
+
+.flat-descript {
+    font-family: "Bree Serif";
+    margin: 10px;
+}
+
+.flat-head {
+    font-size: 25px;
+    color: #0f0e46;
+    font-weight: bold;
+}
+
+.flat-para {
+    font-size: 15px;
+    color: #6c6b70;
+}
+
+.flat-cost {
+    color: #f19116;
+}
+
+.img-location {
+    width: 30px;
+    height: 30px;
+}
+
+.horizontal-line {
+    color: white;
+}
+
+.address {
+    color: white;
+}
+
+.flat-descript-image {
+    width: 100vw;
+    height: 40vh;
+    background-size: cover;
+}
+
+.flats-desciption-page {
+    background-color: #222222;
+    height:100vh;
+}
+
+.flat-descript-text {
+    padding: 10px;
+}
