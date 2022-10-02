@@ -1,0 +1,26 @@
+.home-page {
+    background-color: black;
+    padding: 10px;
+}
+
+.head {
+    color: white;
+}
+
+.pictures {
+    width: 150px;
+    height: 200px;
+    margin-bottom: 10px;
+    background-size:cover;
+}
+
+.turtle {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-turtle-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.text {
+    margin: 5px;
+}
