@@ -1,0 +1,38 @@
+.main-head{
+    font-family:"Roboto";
+    font-size:35px;
+    font-weight:bold;
+    color:white;
+    background-color:black;
+    padding:8px;
+    text-align:center;
+}
+.color{
+    background-color: black;
+}
+.navg-bar{
+    text-align:center;
+    background-color: #333;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-decoration:none;
+  }
+li{
+    display:inline-block;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  li a:hover {
+    color:#73FBFD;
+    text-decoration-color:  #333;
+  }
