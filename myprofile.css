@@ -1,0 +1,95 @@
+.main-head{
+    font-family:"Roboto";
+    font-size:35px;
+    font-weight:bold;
+    color:white;
+    background-color:#333;
+    padding:8px;
+    text-align:center;
+}
+.color{
+    background-color: #333;
+}
+.navg-bar{
+    text-align:center;
+    background-color:rgb(255, 0, 179); 
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 0, 179);
+    text-decoration:none;
+  }
+li{
+    display:inline-block;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  li a:hover {
+    color:#73FBFD;
+    text-decoration-color:  #333;
+  }
+  .home{
+  background-color: #333;
+  text-align:center;
+  }
+  .colorx{
+    color:white;
+    font-family: Georgia;
+    font-size:25px;
+    padding:10px;
+    text-align:center;
+  }
+  .colory{
+    color:rgb(255, 0, 179);
+  }
+  .home-head{
+    text-align:center;
+    color:white;
+  }
+  .mypicture{
+    height:50vh;
+    width:50vh;
+    margin:10px;
+  }
+  .lang-card{
+    height:30vh;
+    width:30vh;
+    margin:10px;
+    border-radius:12px;
+  }
+  .Achievements-card{
+    height:50vh;
+    width:50vh;
+    margin:12px;
+  }
+  .projects{
+    color:white;
+    text-align:center;
+    font-size:25px;
+    font-family:Georgia;
+  }
+  .icons{
+    height:20vh;
+    width:20vw;
+    margin:12px;
+  }
+  .contact-card{
+    height:25vh;
+    width:25vh;
+    margin:12px;
+  }
+  .skills{
+    margin:12px;
+    text-align:center;
+  }
+  .socialmedia-cards{
+    margin-top:10px;
+  }
