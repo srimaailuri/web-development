@@ -1,0 +1,23 @@
+.portfolio-website-work-done {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.hr-line {
+    background-color: white;
+    width:60px;
+}
+
+
+.number {
+    color:white;
+    font-family:"Roboto";
+    font-size: 33px;
+    font-weight: 900;
+}
+
+.card-desc{
+    color:white;
+    font-family:"Roboto";
+    font-size:16px;
+}
