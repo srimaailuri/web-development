@@ -1,0 +1,42 @@
+.portfolio-website-footer-section {
+    background-color: #001c32;
+    padding: 20px;
+}
+
+.myself-image {
+    border-radius: 40px;
+    width: 80px;
+    height: 80px;
+
+}
+
+.person_details {
+    margin: 14px;
+}
+
+.heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.assignment {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.values {
+    padding: 2px;
+    padding-left: 10px;
+}
+
+.bottom-line {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+    padding: 14px;
+}
