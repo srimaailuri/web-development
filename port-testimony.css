@@ -1,0 +1,33 @@
+.Testimonials-section {
+    background-color: #1f2933;
+}
+
+.Testimonals-head {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.members-list {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.member-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.member-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.member-desc {
+    color: #9aa5b1;
+    text-align: center;
+}
