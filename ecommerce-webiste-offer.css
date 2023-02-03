@@ -1,0 +1,27 @@
+.bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.newyear-heading {
+    color: #ad2167;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.discount {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.bank {
+    width: 100%;
+    height: 50%;
+}
